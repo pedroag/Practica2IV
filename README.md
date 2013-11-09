@@ -58,4 +58,4 @@ Pasos a seguir
   
   ![captura4](https://dl.dropbox.com/s/4j3bsg5g7frzzr3/local%20puerto%2080)
 
-
+Anotación: Los archivos del periódico no los adjunto, ya que no son de relevancia.
